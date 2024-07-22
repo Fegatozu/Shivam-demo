@@ -1,10 +1,6 @@
-# Shivam-demo
-Hello world 
-<br>
-Author shraddha khapra  
-<br>
-line change 
-
+Hello world  
+<br> 
+Shivam shrivastava  
 
 
 
