@@ -1,9 +1,6 @@
-Hello world  
-<br> 
+Hello world   
 Shivam shrivastava  
-<br> 
 Ajit aman 
-<br> 
 akash raghuwanshi 
 
 
